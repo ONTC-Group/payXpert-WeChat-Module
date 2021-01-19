@@ -1,4 +1,4 @@
-# osCommerce PayXpert WeChat Payment Module
+# osCommerce PayXpert Payment Module
 ### Version for osCommerce 2.2.X to 2.3.x
 
 

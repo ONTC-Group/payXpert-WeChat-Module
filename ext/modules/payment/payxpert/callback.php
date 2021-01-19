@@ -10,6 +10,8 @@
  * @author Ismail Sanan <ismail@carmimari.com>
  * @author Francesco Rossi <fra@ontc.eu>
  * @copyright 2013 Digital Media World
+ * 
+ * https://github.com/ONTC-Group/payXpert-WeChat-Module
  *
  */ 
  

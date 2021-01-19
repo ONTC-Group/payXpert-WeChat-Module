@@ -26,6 +26,8 @@
  * @author Ismail Sanan <ismail@carmimari.com>
  * @author Francesco Rossi <fra@ontc.eu>
  *
+ * https://github.com/ONTC-Group/payXpert-WeChat-Module
+ *
  */
 
 require_once(dirname(__FILE__) . "/C2PValidate.php");

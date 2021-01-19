@@ -10,6 +10,8 @@
  * @author Ismail Sanan <ismail@carmimari.com>
  * @author Francesco Rossi <fra@ontc.eu>
  *
+ * https://github.com/ONTC-Group/payXpert-WeChat-Module
+ *
  */ 
 define('MODULE_PAYMENT_PAYXPERT_TEXT_TITLE', 'PayXpert');
 define('MODULE_PAYMENT_PAYXPERT_TEXT_PUBLIC_TITLE', 'WeChat Pay');

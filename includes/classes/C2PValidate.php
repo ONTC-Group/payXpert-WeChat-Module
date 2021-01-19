@@ -11,6 +11,7 @@
  * @author Ismail Sanan <ismail@carmimari.com>
  * @author Francesco Rossi <fra@ontc.eu>
  *
+ * https://github.com/ONTC-Group/payXpert-WeChat-Module
  */
 
 class C2PValidate
